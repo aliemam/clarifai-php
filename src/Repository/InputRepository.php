@@ -9,10 +9,10 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai\Repository;
+namespace Clarifai\Repository;
 
-use DarrynTen\Clarifai\Entity\Input;
-use DarrynTen\Clarifai\Request\RequestHandler;
+use Clarifai\Entity\Input;
+use Clarifai\Request\RequestHandler;
 use Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException;
 
 /**

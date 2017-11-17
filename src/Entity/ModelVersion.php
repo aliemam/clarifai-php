@@ -1,6 +1,6 @@
 <?php
 
-namespace DarrynTen\Clarifai\Entity;
+namespace Clarifai\Entity;
 
 class ModelVersion
 {

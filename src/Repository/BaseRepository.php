@@ -9,15 +9,15 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai\Repository;
+namespace Clarifai\Repository;
 
-use DarrynTen\Clarifai\Entity\Input;
-use DarrynTen\Clarifai\Request\RequestHandler;
+use Clarifai\Entity\Input;
+use Clarifai\Request\RequestHandler;
 
 /**
  * Class BaseRepository for the same methods collection
  *
- * @package DarrynTen\Clarifai\Repository
+ * @package Clarifai\Repository
  */
 abstract class BaseRepository
 {

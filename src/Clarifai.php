@@ -9,10 +9,10 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai;
+namespace Clarifai;
 
-use DarrynTen\Clarifai\Repository;
-use DarrynTen\Clarifai\Request\RequestHandler;
+use Clarifai\Repository;
+use Clarifai\Request\RequestHandler;
 
 /**
  * Base class for Clarifai manipulation

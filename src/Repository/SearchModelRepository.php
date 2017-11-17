@@ -9,9 +9,9 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai\Repository;
+namespace Clarifai\Repository;
 
-use DarrynTen\Clarifai\Entity\Model;
+use Clarifai\Entity\Model;
 
 /**
  * Clarifai Search Model Repository

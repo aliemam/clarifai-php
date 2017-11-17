@@ -9,10 +9,10 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai\Repository;
+namespace Clarifai\Repository;
 
-use DarrynTen\Clarifai\Entity\Concept;
-use DarrynTen\Clarifai\Entity\Input;
+use Clarifai\Entity\Concept;
+use Clarifai\Entity\Input;
 
 /**
  * Single Clarifai Input

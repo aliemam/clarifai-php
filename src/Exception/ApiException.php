@@ -9,7 +9,7 @@
  * @link     https://github.com/darrynten/clarifai-php
  */
 
-namespace DarrynTen\Clarifai\Exception;
+namespace Clarifai\Exception;
 
 use Exception;
 
