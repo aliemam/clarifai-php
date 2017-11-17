@@ -17,9 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Clarifai\\": "src/",
-      "Clarifai\\Tests\\": "tests/"
-    },
-    "exclude-from-classmap": ["/Tests/"]
+      "Clarifai\\": "src/"
+    }
   }
 }
