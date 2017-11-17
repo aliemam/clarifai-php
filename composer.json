@@ -1,5 +1,5 @@
 {
-  "name": "darrynten/clarifai-php",
+  "name": "aliemam/clarifai",
   "description": "PHP Client for the Clarifai API",
   "type": "library",
   "require": {
@@ -17,8 +17,8 @@
   },
   "autoload": {
     "psr-4": {
-      "DarrynTen\\Clarifai\\": "src/",
-      "DarrynTen\\Clarifai\\Tests\\": "tests/"
+      "Clarifai\\": "src/",
+      "Clarifai\\Tests\\": "tests/"
     },
     "exclude-from-classmap": ["/Tests/"]
   }
